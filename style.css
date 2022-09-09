@@ -1,0 +1,292 @@
+.first-section{
+  background-image: url(derevoinstrument.jpg);
+  background-repeat: no-repeat;
+  width: 800px;
+  height: 330px;
+  margin: auto;
+  
+}
+.logo{
+  display: flex;
+  font-size: 7px;
+  margin-left: 70px;
+  padding-top: 20px;
+  color: white;
+}
+
+.logo img{
+  width: 40px;
+}
+
+.do-you{
+  margin-top: 30px;
+  margin-left: 80px;
+  color:rgb(249, 249, 249);
+  
+}
+.do-you h1{
+  font-weight: bold;
+  font-size: 30px;
+}
+.do-you button{
+  background: yellow;
+  color: rgb(10, 8, 8);
+  padding: 10px 20px 5px 20px;
+  border: none;
+}
+
+.seconed-section{
+  width: 800px;
+  height: 330px;
+  margin: auto;
+  display: flex;
+}
+
+.jpg img{
+  width: 400px;
+  height: 400px;
+  margin-left: 12px;
+}
+
+.text{
+  width: 347px;
+  height: 400px;
+  background: black;
+  color: aliceblue;
+  /* margin-top: 30px;
+  margin-left: 50px; */
+}
+.text h6{
+  color: yellow;
+  
+}
+.ss{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.text p{
+  width: 280px;
+  height: auto;
+}
+.residential{
+  width: 800px;
+  height: auto;
+  margin: auto;
+  margin-top: 150px;
+  padding-left: 130px;
+}
+.residential p{
+  color: yellow;
+}
+.third-section{
+  display: flex;
+  width: 800px;
+  height: 330px;
+  margin: auto;
+  margin-top: 40px;
+  padding-left: 130px;
+}
+.lorem-one{
+  width: 250px;
+}
+.lorem-two{
+  width: 250px;
+  padding-left: 40px;
+}
+hr{
+  width: 800px;
+  height: 80px;
+  margin: auto;
+  border: none;
+  background-color: rgb(222, 222, 5);
+}
+.four-section{
+  background: rgb(19, 19, 19);
+  width: 800px;
+  height: 420px;
+  margin: auto;
+}
+.renda{
+  display: flex;
+  margin: auto;
+}
+.renda .first h1{
+  color:white;
+  margin-top: 50px;
+  
+}
+.renda .first img{
+  width: 200px; 
+  
+}
+.renda .first{
+  margin-left: 62px;
+}
+.first button{
+  padding: 10px 63px 10px 63px ;
+  background: yellow;
+}
+.renda .seconed img{
+  width: 200px;
+  height: 173px;
+  margin-top: 96px;
+  margin-left: 40px;
+}
+.seconed p{
+  margin-left: 40px;
+  
+}
+.seconed button{
+  margin-left: 40px;
+  padding: 10px 63px 10px 63px ;
+  background: yellow;
+}
+.renda .third img{
+  width: 200px;
+  height: 173px;
+  margin-top: 96px;
+  margin-left: 40px;
+}
+.third p{
+  margin-left: 40px;
+}
+.third button{
+  margin-left: 40px;
+  padding: 10px 63px 10px 63px ;
+  background: yellow;
+}
+.renda img{
+  margin: auto;
+}
+.renda p{
+  color: white;
+  font-size: 18px;
+}
+h{
+  width: 800px;
+  height: 80px;
+  margin: auto;
+  border: none;
+  background-color: rgb(222, 222, 5);
+}
+.five-section{
+  background: rgb(230, 10, 10);
+  width: 800px;
+  height: 370px;
+  margin: auto;
+}
+.five-section h1{
+  margin-top: -5px;
+  padding-top: 20px;
+  margin-left: 53px;
+}
+.five{
+  display: flex;
+  margin-left: 53px;
+}
+.five p{
+  color: yellow;
+}
+.five-section .food{
+  border: 1px solid rgb(6, 6, 6);
+  background: rgb(212, 208, 208);
+  padding: 50px;
+}
+.five-section .Frame{
+  margin-left: 50px;
+  border: 1px solid black;
+  background: rgb(212, 208, 208);
+  padding: 50px 73px 50px 73px;
+}
+.five-section .shelter{
+  margin-left: 50px;
+  border: 1px solid black;
+  background: rgb(212, 208, 208);
+  padding: 50px 50px 50px 50px;
+}
+.food b{
+  font-size: 25px;
+  padding-left: 17px;
+}
+.Frame b{
+  font-size: 25px;
+  padding-left: 5px;
+}
+.shelter b{
+  font-size: 25px; 
+}
+.sex-section{
+  background: rgb(212, 208, 208);
+  width: 800px;
+  height: 470px;
+  margin: auto;
+}
+.Testimonials{
+  display: flex;
+  padding-top: 60px;
+}
+.photo img{
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+}
+.photo{
+  margin-left: 50px;
+}
+.text-t{
+  margin-left: 50px;
+}
+.last-section{
+  background-image:linear-gradient(red,yellow,green);
+  position: relative;
+  background-repeat: no-repeat;
+  width: 800px;
+  height: 400px;
+  margin: auto;
+}
+.last-logo img{
+  width: 40px;
+}
+.ses p{
+  margin-top: 30px;
+  margin-top: 66px;
+}
+.ses{
+  display: flex;
+  font-size: 10px; 
+}
+.last-logo{
+  
+  margin-left: 70px;
+  margin-top: 60px;
+  color: white;
+}
+.final{
+  display: flex;
+  margin-top: 93px;
+  margin-left: 67px;
+}
+.final-one{
+  width: 202px;
+}
+.final-two{
+  margin-top: 55px;
+  margin-left: 20px;
+}
+.final-three{
+  margin-top: 55px;
+  margin-left: 50px;
+}
+.saiful{
+  background: black;
+  color: white;
+  width: 800px;
+  height: 40px;
+  margin: auto;
+}
+.saiful i{
+  float: right;
+  padding-right: 30px;
+  margin-top: 9px;
+}
